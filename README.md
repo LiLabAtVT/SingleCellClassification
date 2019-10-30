@@ -7,7 +7,7 @@ This repository houses several scripts for performing single cell classification
 
 - cell_type_classifier_NN_single.py: Neural network based classification using triplet, contrastive, and cross entropy as objective functions. This script can be run without ddlrun but only trains neural network on a single GPU.
 
-- DAE_pretrain.py: Pretrain a neural network with Denoising Auto Encoder. See [Amir et al., 2018 (https://www.nature.com/articles/s41467-018-07165-2).
+- DAE_pretrain.py: Pretrain a neural network with Denoising Auto Encoder. See [Amir et al., 2018](https://www.nature.com/articles/s41467-018-07165-2).
 
 - cell_type_classifier_PCA_SVM_RF.ipynb: A python jupyter notebook to perform classification using SVM, RF, KNN, and PCA.
 ### 2.2 Example Data Files
