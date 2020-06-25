@@ -1,0 +1,10 @@
+Cortex	Known_maker_feature	2
+Cortex	Novel_marker_feature	18
+Endodermis	Known_maker_feature	3
+Endodermis	Novel_marker_feature	17
+Columella	Known_maker_feature	1
+Columella	Novel_marker_feature	19
+Meri_Xylem	Known_maker_feature	0
+Meri_Xylem	Novel_marker_feature	20
+Trichoblast	Known_maker_feature	4
+Trichoblast	Novel_marker_feature	16
