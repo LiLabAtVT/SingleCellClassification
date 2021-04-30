@@ -1,0 +1,6 @@
+python ./Identify_CORR_markers.py \
+input1_correlation_rate_fl.txt \
+input2_allknown_marker_gene_fl.txt \
+20 \
+working_dir/ \
+output_dir/
